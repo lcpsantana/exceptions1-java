@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Santana
- *
- */
-module course {
-}
